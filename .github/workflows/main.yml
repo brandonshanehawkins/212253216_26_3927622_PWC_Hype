@@ -1,0 +1,10 @@
+            - name: Export Issues
+  # You may pin to the exact commit or the version.
+  # uses: teamniteo/export-issues-action@e065c7486951d38b0161091f191281001c9c6d23
+  uses: teamniteo/export-issues-action@v2
+  with:
+    # Repository to export
+    repo: 
+    # Org that repository belongs to
+    org: 
+          
